@@ -1,7 +1,7 @@
 # Hello-World
 
-## Authors
-- [Steve-design](https://github.com/Steve-design)
+## Author
+- [Stephen Mwanza](https://github.com/Steve-design)
  
 
 ## Project setup instructions
